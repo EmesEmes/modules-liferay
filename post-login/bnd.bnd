@@ -1,0 +1,8 @@
+Bundle-Name: post-login
+Bundle-SymbolicName: com.test.react
+Bundle-Version: 1.0.0
+Export-Package: com.test.react.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
+Web-ContextPath: /post-login

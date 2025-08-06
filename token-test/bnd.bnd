@@ -1,0 +1,7 @@
+Bundle-Name: token-test
+Bundle-SymbolicName: com.ejemplo.token.consumer
+Bundle-Version: 1.0.0
+Export-Package: com.ejemplo.token.consumer.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"

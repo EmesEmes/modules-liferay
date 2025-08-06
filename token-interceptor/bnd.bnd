@@ -1,0 +1,4 @@
+Bundle-Name: token-interceptor
+Bundle-SymbolicName: com.token.interceptor
+Bundle-Version: 1.0.0
+Liferay-Rest-Extender: true

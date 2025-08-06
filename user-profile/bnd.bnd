@@ -1,0 +1,8 @@
+Bundle-Name: user-profile
+Bundle-SymbolicName: com.kruger.profile
+Bundle-Version: 1.0.0
+Export-Package: com.kruger.profile.constants
+Provide-Capability:\
+	liferay.language.resources;\
+		resource.bundle.base.name="content.Language"
+Web-ContextPath: /user-profile
